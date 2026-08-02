@@ -1,6 +1,6 @@
 # Mini UNIX Command Implementation
 
-# 🐚 Modern C++ Shell (xv6 Port)
+# 🐚 C++ Shell
 
 A lightweight, high-performance UNIX shell written in modern C++17. Inspired by the classic MIT xv6 operating system shell, this project modernizes the underlying architecture using **RAII smart pointers**, **OOP polymorphism**, and **standard library containers**.
 
