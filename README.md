@@ -34,7 +34,9 @@ Shell/
 ├── Makefile           # Automated build script using GNU Make
 └── README.md          # Project documentation
 
-Prerequisites
+
+
+**## Prerequisites**
 Operating System: Linux / POSIX-compliant environment
 
 Compiler: g++ or clang++ with C++17 support
